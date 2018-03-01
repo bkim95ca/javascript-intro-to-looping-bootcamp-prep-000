@@ -1,5 +1,5 @@
 function whileLoop(n) {
-  return n.random() >= 100
+ var n = 100
 }
 
 while (whileLoop()) {
