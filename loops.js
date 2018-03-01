@@ -1,4 +1,4 @@
-function whileLoop() {
+function whileLoop(n) {
 var n > 100
 }
 
