@@ -1,5 +1,5 @@
 function whileLoop() {
-  n > 100
+var n > 100
 }
 
 while (whileLoop()) {
