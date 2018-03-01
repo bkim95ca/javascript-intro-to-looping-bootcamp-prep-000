@@ -3,5 +3,5 @@ function whileLoop(n) {
 }
 
 while (whileLoop()) {
-  console.log("countdown")
+  console.log(--countdown)
 }
