@@ -1,7 +1,7 @@
-function whileLoop(n) {
+function whileLoop() {
   n > 100
 }
 
-while (whileLoop(n)) {
+while (whileLoop()) {
   console.log(--countdown)
 }
