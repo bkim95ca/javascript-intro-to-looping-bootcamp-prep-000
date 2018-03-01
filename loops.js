@@ -1,4 +1,3 @@
-for (var i = 1; i <= 100; i++) {
-  console.log( "hello world the " + i + " time");
-}
+for (i = 0; i <= 25, i++) {
 
+}
