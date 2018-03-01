@@ -2,6 +2,6 @@ function whileLoop(n) {
   n > 100
 }
 
-while (whileLoop()) {
+while (whileLoop(n)) {
   console.log(--countdown)
 }
