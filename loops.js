@@ -1,9 +1,3 @@
-var gifts = ['teddy bear','drone', 'doll']
-
-function wrapGift(gift) {
-  console.log('Wrapped ${gift} and added a bow')
+for (var i = 1; i < 100; i++) {
+  console.log( "hello world the " + i + " time");
 }
-
-wrapGift(gifts[0])
-wrapGift(gifts[1])
-wrapGift(gifts[2])
